@@ -1,0 +1,1 @@
+{"name":"ipl-mega-auction","version":"1.0.0","description":"Authoritative 2-player IPL Mega Auction server with 4-digit rooms and 5-credit star selection.","main":"server.js","scripts":{"start":"node server.js","test":"node test-two-clients.js"},"dependencies":{"ws":"^8.18.0"}}
